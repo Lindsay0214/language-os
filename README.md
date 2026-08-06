@@ -63,3 +63,13 @@ The minimum viable session is one focused interaction with the language and one 
 ## Maintenance
 
 Keep the system small. Add a new file only when it improves retrieval, review, or decision-making. Commit meaningful changes so the repository history shows how the system evolves.
+
+## Progress
+
+Current Streak
+
+🔥 Day 1
+
+Completed Days
+
+- [x] Day 1
