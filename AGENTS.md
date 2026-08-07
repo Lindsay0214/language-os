@@ -34,6 +34,8 @@ If a section is unanswered, mark it incomplete rather than inventing evidence or
 
 Every task must include a realistic time budget. The default Day 2+ budget is 10 minutes for listening, 12 minutes for IELTS speaking, 25 minutes for English writing, and 10 minutes for each German teaching/practice block. Adjust only when the task says why.
 
+For the two weeks following Day 2, adapt the English session to the observed profile: 10 minutes listening, 25 minutes speaking, 20 minutes writing, and 15 minutes grammar or sentence repair. Keep five high-frequency IELTS vocabulary items per day, limit speaking practice to one main idea per sentence, and include a small German A1 lesson every day.
+
 English listening tasks must include the source title, publisher or creator, direct playable URL, and the expected listening length. Prefer a source the user can open and play immediately; do not create a listening task with an unattributed passage unless the user explicitly requests a generated exercise.
 
 ## Review Standard

@@ -9,11 +9,14 @@ Create a manageable mission with one task in each required area:
 Default time budgets:
 
 - English Listening — 10 minutes
-- IELTS Speaking — 12 minutes
-- English Writing — 25 minutes
+- IELTS Speaking — 25 minutes
+- English Writing — 20 minutes
+- Grammar and sentence repair — 15 minutes
 - German Lesson — 10 minutes
 - German Guided Practice — 10 minutes
 - German Mini Output — 5 minutes
+
+For the two weeks after Day 2, use this adaptive allocation unless the user requests a different focus. Keep speaking sentences focused on one main idea, add five high-frequency IELTS items, and include a short German A1 lesson every day.
 
 ### English
 

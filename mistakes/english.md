@@ -125,3 +125,41 @@ Examples
 ❌ recover breathing
 
 ✅ learn first-aid skills / learn how to help someone breathe
+
+---
+
+### One idea per sentence
+
+Occurrences:
+
+- Day 2
+
+Pattern
+
+Long sentences often combine a reason, example, result, and extra comment. Split them into shorter sentences so each sentence has one main idea.
+
+Example
+
+❌ They will not focus on work as longer as in an office, so they will feel more comfortable and make coffee or take a rest.
+
+✅ They may feel too comfortable at home. As a result, it is easier to lose focus.
+
+Practice cue
+
+Keep each practice sentence under 15 words.
+
+---
+
+### Task response precision
+
+Occurrences:
+
+- Day 2
+
+Pattern
+
+When a prompt contrasts practical skills with academic subjects, do not accidentally argue that academic subjects should be removed.
+
+Better thesis
+
+Schools should place more emphasis on practical skills while continuing to teach academic subjects.
