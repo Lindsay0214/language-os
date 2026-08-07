@@ -65,3 +65,63 @@ Examples
 ❌ Google take
 
 ✅ Google takes
+
+---
+
+## Day 2 Recurring Mistakes
+
+### Natural collocations
+
+Occurrences:
+
+- Day 2
+
+Examples
+
+❌ feel themselves relaxed
+
+✅ feel relaxed
+
+❌ focus on work as longer as in an office
+
+✅ focus on work for longer than they do at home
+
+❌ by others' feeling
+
+✅ because of pressure from their colleagues
+
+---
+
+### Subject–verb agreement
+
+Occurrences:
+
+- Day 2
+
+Examples
+
+❌ everyone will using practical skills
+
+✅ everyone will use practical skills
+
+❌ practical skills are more often show up in people's daily life
+
+✅ practical skills appear more often in people's daily lives
+
+---
+
+### Countable nouns and word choice
+
+Occurrences:
+
+- Day 2
+
+Examples
+
+❌ physical knowledges
+
+✅ academic knowledge
+
+❌ recover breathing
+
+✅ learn first-aid skills / learn how to help someone breathe

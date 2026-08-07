@@ -68,8 +68,9 @@ Keep the system small. Add a new file only when it improves retrieval, review, o
 
 Current Streak
 
-🔥 Day 1
+🔥 Day 2
 
 Completed Days
 
 - [x] Day 1
+- [x] Day 2
