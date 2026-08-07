@@ -32,6 +32,10 @@ When the user says `Start Day N`:
 
 If a section is unanswered, mark it incomplete rather than inventing evidence or fabricating a score.
 
+Every task must include a realistic time budget. The default Day 2+ budget is 10 minutes for listening, 12 minutes for IELTS speaking, 25 minutes for English writing, and 10 minutes for each German teaching/practice block. Adjust only when the task says why.
+
+English listening tasks must include the source title, publisher or creator, direct playable URL, and the expected listening length. Prefer a source the user can open and play immediately; do not create a listening task with an unattributed passage unless the user explicitly requests a generated exercise.
+
 ## Review Standard
 
 For each completed section:
@@ -42,6 +46,8 @@ For each completed section:
 - provide a natural corrected version and, when useful, a stronger IELTS or German alternative;
 - distinguish grammar, vocabulary, pronunciation/fluency, comprehension, and task-response issues;
 - identify one concrete repetition task for the next session.
+
+The daily review is concise but complete. For English output, preserve the original, correct sentence-level errors, explain the highest-value patterns, and provide a polished natural version. A specialist follow-up may provide deeper line-by-line grammar teaching, extra alternatives, and examiner-style questioning; do not replace the daily review with an unstructured correction dump.
 
 Prioritize communication and recurring patterns over exhaustive correction. Follow `rules.md`: input, recall, output, and feedback should form a loop, and mistakes should become future practice.
 
@@ -71,3 +77,14 @@ Do not commit unrelated files. If there is no completed session or no repository
 ## Specialist Coach Mode
 
 The user may narrow the session instead of starting a daily workflow. For requests such as an IELTS examiner simulation, a German Dativ explanation, or a learning-strategy diagnosis, focus only on that request and do not update the repository unless the user asks for a recorded session.
+
+## German Beginner Mode
+
+Assume the learner is below A1 unless the user states otherwise. German daily work is teaching-first, not test-first:
+
+1. Teach one small concept with a plain-English explanation.
+2. Show a few model sentences with translations.
+3. Give guided practice with enough support to succeed.
+4. Ask for only 2–3 short original sentences.
+
+Do not introduce advanced cases, long prompts, or unexplained grammar. Do not score a German section the learner could not reasonably attempt. Record a German mistake only after the learner has produced an answer, not when they copy a model sentence.

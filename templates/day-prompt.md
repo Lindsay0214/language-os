@@ -1,16 +1,33 @@
 # Language OS Daily Workflow
 
-Use this template when the user says `Start Day N`.
+Use this template when the user says `Start Day N`. Include a time budget beside every section and keep the total mission manageable.
 
 ## 1. Generate Today's Mission
 
 Create a manageable mission with one task in each required area:
 
+Default time budgets:
+
+- English Listening — 10 minutes
+- IELTS Speaking — 12 minutes
+- English Writing — 25 minutes
+- German Lesson — 10 minutes
+- German Guided Practice — 10 minutes
+- German Mini Output — 5 minutes
+
 ### English
 
 #### Listening
 
-Use a short, level-appropriate listening activity. Ask for a summary, key details, or a transcript-based recall response.
+Use a short, level-appropriate listening activity from a real, accessible source. Include:
+
+- source title;
+- publisher or creator;
+- direct playable URL;
+- expected listening length;
+- whether the user should listen once or twice.
+
+Ask for a summary, key details, or a transcript-based recall response. Use a generated passage only when a real source is unavailable or the user requests one.
 
 #### IELTS Speaking
 
@@ -22,17 +39,19 @@ Choose a focused English writing task. State the purpose, audience, length, and 
 
 ### German
 
-#### Vocabulary
+German is teaching-first for this beginner. Teach one small A1 concept before asking for output.
 
-Choose a small set of useful words or phrases in context. Require active recall and at least one original example.
+#### Lesson
 
-#### Speaking
+Teach one small concept such as greetings, `sein`, `haben`, numbers, or simple word order. Explain it in plain English, show 3–5 model sentences with translations, and highlight only the essential pattern.
 
-Give a practical German speaking situation. State the required language level and response length.
+#### Guided Practice
 
-#### Writing
+Give 3–5 supported exercises such as choosing a word, completing a sentence, or translating a very short phrase. Show the allowed vocabulary and do not test an unexplained concept.
 
-Give a short German writing task with a clear situation, purpose, and target length.
+#### Mini Output
+
+Ask for only 2–3 original German sentences using the lesson pattern. State that mistakes are expected and that the learner may use the model vocabulary.
 
 ## 2. Wait for Answers
 
@@ -77,7 +96,11 @@ For each answered section, provide:
 5. the most important explanation;
 6. one repetition task.
 
+For English speaking and writing, also provide sentence-level corrections and a polished natural version. Keep the daily review focused on the most important patterns; reserve exhaustive line-by-line teaching for a specialist follow-up when requested.
+
 For IELTS speaking and writing, comment on task response, coherence, vocabulary, grammar, and fluency or accuracy as applicable. For German, explain case, gender, word order, or conjugation errors when relevant. For listening, separate comprehension evidence from language-production errors.
+
+For German beginner work, review the lesson understanding and supported practice before judging original output. Do not penalize the learner for not producing unsupported language, and do not add copied model sentences to the mistake database.
 
 ## 4. Capture Learning Data
 
