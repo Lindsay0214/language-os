@@ -9,14 +9,15 @@ Create a manageable mission with one task in each required area:
 Default time budgets:
 
 - English Listening — 10 minutes
-- IELTS Speaking — 25 minutes
+- IELTS Speaking — 20 minutes
+- Speaking Rewrite — 10 minutes
 - English Writing — 20 minutes
 - Grammar and sentence repair — 15 minutes
 - German Lesson — 10 minutes
 - German Guided Practice — 10 minutes
 - German Mini Output — 5 minutes
 
-For the two weeks after Day 2, use this adaptive allocation unless the user requests a different focus. Keep speaking sentences focused on one main idea, add five high-frequency IELTS items, and include a short German A1 lesson every day.
+For the two weeks after Day 2, use this adaptive allocation unless the user requests a different focus. Use B1–B2 listening, keep speaking sentences focused on one main idea, add five native chunks, and include a short German A1 lesson every day. Use A1–A2 listening only for recovery sessions.
 
 ### English
 
@@ -36,9 +37,15 @@ Ask for a summary, key details, or a transcript-based recall response. Use a gen
 
 Choose an IELTS-style Part 1, Part 2, or Part 3 prompt. Ask the user to answer in English and state the target response length.
 
+Use a personal story from `ideas/stories.md` when it fits. Require a clear ending such as `Overall, ...`, `For these reasons, ...`, or `That's why ...`.
+
+#### Speaking Rewrite
+
+After the speaking answer, ask the learner to rewrite the same idea in shorter, clearer sentences. Target one main idea per sentence and usually 15 words or fewer. Correct sentence structure, then retain the strongest version for the writing task.
+
 #### Writing
 
-Choose a focused English writing task. State the purpose, audience, length, and any IELTS task requirements.
+Turn the speaking rewrite into a focused English writing task instead of changing topics. Before drafting, require a short `Reason → Example → Result` outline. State the purpose, audience, length, and any IELTS task requirements. For `To what extent` questions, require the learner to acknowledge the role of the opposing consideration before stating the thesis.
 
 ### German
 
@@ -109,11 +116,14 @@ For German beginner work, review the lesson understanding and supported practice
 
 Extract only supported items:
 
+- five reusable English native chunks for `phrases/english.md`;
 - Anki candidates: phrase, meaning, example, and a short recall prompt;
 - mistakes: the user's form, corrected form, explanation, and a future practice cue;
 - vocabulary: the word or phrase, meaning, context, and example.
 
 Prefer recurring, high-value items over a long list.
+
+If the session produced a reusable personal story or a new detail about an existing story, update `ideas/stories.md` with the situation, action, challenge, result, useful language, and possible IELTS questions.
 
 ## 5. Update the Repository
 

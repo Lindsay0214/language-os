@@ -49,6 +49,8 @@ The minimum viable session is one focused interaction with the language and one 
 | `journal/` | Dated daily practice records |
 | `mistakes/` | Language-specific error logs and corrections |
 | `vocabulary/` | Language-specific active vocabulary |
+| `phrases/` | Reusable English native chunks and collocations |
+| `ideas/` | Reusable personal stories for speaking and writing |
 | `reviews/` | Dated weekly and periodic reviews |
 | `templates/` | Reusable Markdown templates |
 | `resources/` | Curated references, links, and learning material |

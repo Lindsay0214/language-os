@@ -13,6 +13,8 @@ The repository is the source of truth for the workflow. Load these instructions 
 - Use `templates/daily.md` for dated journal entries.
 - Use `mistakes/english.md` and `mistakes/german.md` for durable error records.
 - Use `vocabulary/english.md` and `vocabulary/german.md` for contextual vocabulary.
+- Use `phrases/english.md` for reusable English native chunks and collocations.
+- Use `ideas/stories.md` for reusable personal stories across IELTS and German practice.
 - Use `README.md` for the streak and project overview.
 - If `review-standard.md` exists, follow it for review. If it does not exist, use `rules.md` and the review checklist below; never imply that a missing file was consulted.
 
@@ -23,20 +25,21 @@ When the user says `Start Day N`:
 1. Determine today's date and create a focused mission for all six required areas.
 2. Generate English listening, IELTS speaking, and English writing tasks.
 3. Generate German vocabulary, German speaking, and German writing tasks.
-4. Present the mission in clear Markdown and wait for the user's answers.
-5. Do not review or update the repository until the user submits answers or explicitly ends the session.
-6. Review every answered section, score performance, correct language, and identify the highest-value next actions.
-7. Extract supported vocabulary and Anki candidates with context and examples.
-8. Update today's journal, the relevant mistakes files, the relevant vocabulary files, and the README streak.
-9. Summarize changed files and create one focused Git commit.
+4. For English output, use the sequence Speaking → Speaking Rewrite → Writing whenever the session is not a recovery session. Reuse the same idea and, when useful, a story from `ideas/stories.md`.
+5. Present the mission in clear Markdown and wait for the user's answers.
+6. Do not review or update the repository until the user submits answers or explicitly ends the session.
+7. Review every answered section, score performance, correct language, and identify the highest-value next actions.
+8. Extract five supported native chunks, plus vocabulary and Anki candidates with context and examples.
+9. Update today's journal, the relevant mistakes files, the relevant vocabulary and phrases files, and the README streak.
+10. Summarize changed files and create one focused Git commit.
 
 If a section is unanswered, mark it incomplete rather than inventing evidence or fabricating a score.
 
 Every task must include a realistic time budget. The default Day 2+ budget is 10 minutes for listening, 12 minutes for IELTS speaking, 25 minutes for English writing, and 10 minutes for each German teaching/practice block. Adjust only when the task says why.
 
-For the two weeks following Day 2, adapt the English session to the observed profile: 10 minutes listening, 25 minutes speaking, 20 minutes writing, and 15 minutes grammar or sentence repair. Keep five high-frequency IELTS vocabulary items per day, limit speaking practice to one main idea per sentence, and include a small German A1 lesson every day.
+For the two weeks following Day 2, adapt the English session to the observed profile: 10 minutes listening, 20 minutes speaking, 10 minutes speaking rewrite, 20 minutes writing, and 15 minutes grammar or sentence repair. Keep five high-frequency IELTS native chunks per day, limit speaking practice to one main idea per sentence, and include a small German A1 lesson every day.
 
-English listening tasks must include the source title, publisher or creator, direct playable URL, and the expected listening length. Prefer a source the user can open and play immediately; do not create a listening task with an unattributed passage unless the user explicitly requests a generated exercise.
+English listening tasks must include the source title, publisher or creator, direct playable URL, and the expected listening length. Use B1–B2 material by default, such as a short news or learner podcast segment; reserve A1–A2 material for recovery sessions or explicit review. Prefer a source the user can open and play immediately; do not create a listening task with an unattributed passage unless the user explicitly requests a generated exercise.
 
 ## Review Standard
 
