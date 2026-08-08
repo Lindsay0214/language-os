@@ -163,3 +163,85 @@ When a prompt contrasts practical skills with academic subjects, do not accident
 Better thesis
 
 Schools should place more emphasis on practical skills while continuing to teach academic subjects.
+
+---
+
+## Day 3 Recurring Mistakes
+
+### `learn to` and `help someone do`
+
+Occurrences:
+
+- Day 3
+
+Examples
+
+❌ I would like to learn breathe.
+
+✅ I would like to learn to breathe.
+
+❌ Practical skills would let people help others easier.
+
+✅ Practical skills would help people help others more easily.
+
+Pattern
+
+Use `learn to + verb`. Use `help + person + base verb` or `help + person + to + verb`.
+
+---
+
+### `breathe`, `breath`, and `breathing`
+
+Occurrences:
+
+- Day 1
+- Day 3
+
+Correct use
+
+- `breathe` — verb: I breathe deeply.
+- `breath` — noun: Take a deep breath.
+- `breathing` — activity or process: Breathing exercises help me relax.
+
+Practice cue
+
+Write one sentence with each form before the next speaking task.
+
+---
+
+### Modal verbs and adverb placement
+
+Occurrences:
+
+- Day 3
+
+Examples
+
+❌ People would more focus when they work in an office.
+
+✅ People would focus more when they work in an office.
+
+❌ Learning money management could let person plan their life better.
+
+✅ Learning money management could help people plan their lives better.
+
+Pattern
+
+After `will`, `would`, or `could`, use the base verb. Place `more` after the main verb when it modifies the action.
+
+---
+
+### Clear word choice for emergency skills
+
+Occurrences:
+
+- Day 3
+
+Clarification
+
+- `CPR` means cardiopulmonary resuscitation.
+- `first aid` means basic emergency medical help.
+- `CPU` means a computer's central processing unit.
+- `fraud` means dishonest or illegal deception.
+
+Use `CPR or first aid` if you mean skills for helping someone in an emergency.

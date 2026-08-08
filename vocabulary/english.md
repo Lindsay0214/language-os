@@ -114,3 +114,75 @@ Borrowing too much money can damage your credit score.
 My example
 
 Missing payments may damage your credit score.
+
+## Day 3
+
+### practical skills
+
+Meaning
+
+useful abilities for everyday life
+
+Example from context
+
+Learning practical skills can help people in daily life.
+
+My example
+
+Cooking and budgeting are practical skills.
+
+### academic grades
+
+Meaning
+
+marks that show performance in school subjects
+
+Example from context
+
+Some people focus mainly on getting high academic grades.
+
+My example
+
+Academic grades are not the only measure of ability.
+
+### financial management
+
+Meaning
+
+the skill of planning and controlling money
+
+Example from context
+
+Financial management can help people plan their lives.
+
+My example
+
+I want to improve my financial management.
+
+### first aid
+
+Meaning
+
+basic medical help given in an emergency
+
+Example from context
+
+Students could learn first aid at school.
+
+My example
+
+Knowing first aid could help save someone's life.
+
+### opportunity
+
+Meaning
+
+a chance to do or learn something
+
+Example from context
+
+Students may lose the opportunity to learn practical skills.
+
+My example
+
+This course gives me an opportunity to practice speaking.
