@@ -70,10 +70,18 @@ Keep the system small. Add a new file only when it improves retrieval, review, o
 
 Current Streak
 
-🔥 Day 3
+🔥 Day 4
 
 Completed Days
 
 - [x] Day 1
 - [x] Day 2
 - [x] Day 3
+- [x] Day 4
+
+### Expressiveness
+
+| Day | Score |
+| --- | ---: |
+| Day 1 | 5/10 |
+| Day 4 | 8/10 |

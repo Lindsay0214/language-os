@@ -68,3 +68,67 @@ Example: People who understand budgeting are less likely to overspend. As a resu
 Introduce a conclusion based on previous points.
 
 Example: For these reasons, practical skills should receive more attention in schools.
+
+## Day 4
+
+### brain activity
+
+Meaning: activity and functioning in the brain.
+
+Example: Reading can increase brain activity.
+
+### brain development
+
+Meaning: the process of the brain growing and changing.
+
+Example: Reading is connected with healthy brain development.
+
+### take a deep breath
+
+Meaning: breathe in deeply, often to relax or prepare.
+
+Example: I take a deep breath before speaking.
+
+### practical experience
+
+Meaning: knowledge gained by doing something.
+
+Example: Employers often value practical experience.
+
+### a lot of students are unemployed
+
+Meaning: many students do not have jobs after graduation.
+
+Example: A lot of students are unemployed because they lack practical experience.
+
+## Day 4 Sprint Review Chunks
+
+### benefit society
+
+Meaning: have a positive effect on society.
+
+Example: Practical skills can benefit society in many ways.
+
+### be grateful for
+
+Meaning: appreciate something or someone.
+
+Example: I am grateful for the opportunity to learn.
+
+### manage money
+
+Meaning: control spending, saving, and financial decisions.
+
+Example: Students should learn how to manage money.
+
+### make gradual progress
+
+Meaning: improve slowly and steadily.
+
+Example: Daily practice helps me make gradual progress.
+
+### although ..., I believe ...
+
+Use this structure to acknowledge another view before stating an IELTS position.
+
+Example: Although academic grades remain important, I believe practical skills deserve more emphasis.

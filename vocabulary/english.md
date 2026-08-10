@@ -29,6 +29,50 @@ Take a few minutes away from a screen.
 
 My example
 
+## Day 4
+
+### brain activity
+
+Meaning
+
+activity and functioning in the brain
+
+Example from context
+
+Reading can increase brain activity.
+
+My example
+
+Reading may improve brain activity and concentration.
+
+### dedicated
+
+Meaning
+
+giving a lot of time and attention to something
+
+Example from context
+
+A dedicated reader makes time to read regularly.
+
+My example
+
+I am dedicated to improving my English.
+
+### practical experience
+
+Meaning
+
+knowledge gained by doing something
+
+Example from context
+
+Employers often value practical experience.
+
+My example
+
+Practical experience can help graduates find work.
+
 I need to stay away from my phone when I study.
 
 ### focused attention

@@ -12,6 +12,7 @@ Default time budgets:
 - IELTS Speaking — 20 minutes
 - Speaking Rewrite — 10 minutes
 - English Writing — 20 minutes
+- Writing Rewrite — 10 minutes
 - Grammar and sentence repair — 15 minutes
 - German Lesson — 10 minutes
 - German Guided Practice — 10 minutes
@@ -46,6 +47,10 @@ After the speaking answer, ask the learner to rewrite the same idea in shorter, 
 #### Writing
 
 Turn the speaking rewrite into a focused English writing task instead of changing topics. Before drafting, require a short `Reason → Example → Result` outline. State the purpose, audience, length, and any IELTS task requirements. For `To what extent` questions, require the learner to acknowledge the role of the opposing consideration before stating the thesis.
+
+#### Writing Rewrite
+
+After the essay, ask for a 100-word rewrite of one paragraph. Preserve the idea, improve native expression, remove unnecessary repetition, and add one analysis sentence after the example.
 
 ### German
 
@@ -109,6 +114,8 @@ For each answered section, provide:
 For English speaking and writing, also provide sentence-level corrections and a polished natural version. Keep the daily review focused on the most important patterns; reserve exhaustive line-by-line teaching for a specialist follow-up when requested.
 
 For IELTS speaking and writing, comment on task response, coherence, vocabulary, grammar, and fluency or accuracy as applicable. For German, explain case, gender, word order, or conjugation errors when relevant. For listening, separate comprehension evidence from language-production errors.
+
+For every writing example, check for an analysis sentence answering `Why does this example matter?` If it is missing, make that the next rewrite target. For speaking, include a 30-second paraphrase after listening when the source and time allow.
 
 For German beginner work, review the lesson understanding and supported practice before judging original output. Do not penalize the learner for not producing unsupported language, and do not add copied model sentences to the mistake database.
 

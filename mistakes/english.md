@@ -245,3 +245,49 @@ Clarification
 - `fraud` means dishonest or illegal deception.
 
 Use `CPR or first aid` if you mean skills for helping someone in an emergency.
+
+## Day 4 Recurring Mistakes
+
+### Verb patterns and countable nouns
+
+Occurrences:
+
+- Day 4
+
+Examples
+
+❌ I would like to learn breathing more deeply.
+
+✅ I would like to learn to breathe more deeply.
+
+❌ Breathing techniques help me take a deep breathing.
+
+✅ Breathing techniques help me take a deep breath.
+
+❌ Learning first aid can help person in an emergency.
+
+✅ Learning first aid can help a person in an emergency.
+
+Pattern
+
+Use `learn to + verb` for an action. Use `breath` as the noun after `a deep`. Singular countable nouns need an article.
+
+### Conditional and employment language
+
+Occurrences:
+
+- Day 4
+
+Examples
+
+❌ If we has learn the aid skills, maybe we can survive the older.
+
+✅ If we had learned first-aid skills, we might have saved the older man.
+
+❌ A lots of students unemployee when they graduate.
+
+✅ A lot of students are unemployed when they graduate.
+
+Pattern
+
+Use `a lot of`, not `a lots of`; use `are unemployed` for a current state. Past hypothetical situations use `if + had + past participle` and `might have + past participle`.

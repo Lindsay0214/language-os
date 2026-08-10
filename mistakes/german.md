@@ -72,3 +72,19 @@ Occurrences:
 ✅ Ich möchte Tee.
 
 `Ich möchte ...` needs the thing the speaker wants. `Ihr` is not a complete object in this sentence.
+
+## Day 4 Word Order
+
+### `nie` with `haben`
+
+Occurrences:
+
+- Day 4
+
+❌ Ich habe Zeit nie.
+
+✅ Ich habe nie Zeit.
+
+Pattern
+
+The frequency word `nie` usually comes before the object in this simple sentence.

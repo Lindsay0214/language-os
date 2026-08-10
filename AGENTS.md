@@ -54,6 +54,8 @@ For each completed section:
 
 The daily review is concise but complete. For English output, preserve the original, correct sentence-level errors, explain the highest-value patterns, and provide a polished natural version. A specialist follow-up may provide deeper line-by-line grammar teaching, extra alternatives, and examiner-style questioning; do not replace the daily review with an unstructured correction dump.
 
+Track `Expressiveness` separately from grammar. Expressiveness measures whether the learner can transfer a real idea into understandable English; it must not be inferred from grammar accuracy alone. For speaking, also assess information density, sentence boundaries, and whether the answer has a clear ending. For writing, assess whether each example is followed by an analysis sentence explaining why it matters.
+
 Prioritize communication and recurring patterns over exhaustive correction. Follow `rules.md`: input, recall, output, and feedback should form a loop, and mistakes should become future practice.
 
 ## Repository Updates
@@ -64,6 +66,7 @@ Only make updates supported by the session:
 - add recurring or instructionally useful English errors to `mistakes/english.md`;
 - add recurring or instructionally useful German errors to `mistakes/german.md`;
 - add contextual English items to `vocabulary/english.md`;
+- add reusable English chunks to `phrases/english.md`;
 - add contextual German items to `vocabulary/german.md`;
 - update the README streak only when the user completed a meaningful session or recovery session.
 
