@@ -88,3 +88,27 @@ Occurrences:
 Pattern
 
 The frequency word `nie` usually comes before the object in this simple sentence.
+
+---
+
+## Day 5 Articles with `haben`
+
+Occurrences:
+
+- Day 5
+
+❌ Hast du Buch?
+
+✅ Hast du ein Buch?
+
+❌ Hat sie Schwester?
+
+✅ Hat sie eine Schwester?
+
+❌ Nein, ich habe keine Bruder.
+
+✅ Nein, ich habe keinen Bruder.
+
+Pattern
+
+Use an article with singular countable nouns. `Bruder` is masculine, so its accusative negative form is `keinen Bruder`.

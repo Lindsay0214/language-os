@@ -246,6 +246,84 @@ Clarification
 
 Use `CPR or first aid` if you mean skills for helping someone in an emergency.
 
+---
+
+## Day 5 Recurring Mistakes
+
+### Articles and superlative forms
+
+Priority: high
+
+Occurrences:
+
+- Day 5
+
+Examples
+
+❌ English is the useful skill I learned ever.
+
+✅ English is the most useful skill I have ever learned.
+
+❌ It is truly useful skill for me.
+
+✅ It is a truly useful skill for me.
+
+Pattern
+
+Use `the most + adjective` for a superlative. Use `have/has + past participle` with `ever`. Singular countable nouns need an article.
+
+---
+
+### Verb patterns and natural expression
+
+Occurrences:
+
+- Day 5
+
+Examples
+
+❌ I always using English when I work.
+
+✅ I always use English at work.
+
+❌ I have experience for building websites.
+
+✅ I have experience building websites.
+
+❌ English is really benefit to everyone.
+
+✅ English benefits everyone.
+
+Pattern
+
+After `always`, use the simple present for a regular habit. Use `experience + gerund` or `experience in + gerund`. Prefer a direct verb when it is available.
+
+---
+
+### Comparison and collocation
+
+Occurrences:
+
+- Day 5
+
+Examples
+
+❌ The advantages ... is more than the disadvantages.
+
+✅ The advantages outweigh the disadvantages.
+
+❌ reduce not necessary time consuming
+
+✅ reduce unnecessary commuting time / save commuting time
+
+❌ hard to maintain concentration for no peer pressure
+
+✅ It is harder to maintain concentration because there is less social pressure.
+
+Pattern
+
+Use `outweigh` without `than`. Prefer established chunks instead of translating each word.
+
 ## Day 4 Recurring Mistakes
 
 ### Verb patterns and countable nouns

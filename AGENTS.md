@@ -39,6 +39,8 @@ Every task must include a realistic time budget. The default Day 2+ budget is 10
 
 For the two weeks following Day 2, adapt the English session to the observed profile: 10 minutes listening, 20 minutes speaking, 10 minutes speaking rewrite, 20 minutes writing, and 15 minutes grammar or sentence repair. Keep five high-frequency IELTS native chunks per day, limit speaking practice to one main idea per sentence, and include a small German A1 lesson every day.
 
+Set exactly one primary production or grammar focus for each day. Record it at the start of the mission and make it the only active correction target; capture other recurring issues in the repository without asking the learner to fix them all in the same session. Use the current rotation: Day 6 articles, Day 7 one idea per sentence, Day 8 point → example → result.
+
 English listening tasks must include the source title, publisher or creator, direct playable URL, and the expected listening length. Use B1–B2 material by default, such as a short news or learner podcast segment; reserve A1–A2 material for recovery sessions or explicit review. Prefer a source the user can open and play immediately; do not create a listening task with an unattributed passage unless the user explicitly requests a generated exercise.
 
 ## Review Standard

@@ -132,3 +132,35 @@ Example: Daily practice helps me make gradual progress.
 Use this structure to acknowledge another view before stating an IELTS position.
 
 Example: Although academic grades remain important, I believe practical skills deserve more emphasis.
+
+## Day 5
+
+### room for improvement
+
+Meaning: an area where you can become better.
+
+Example: I still have a lot of room for improvement.
+
+### make progress
+
+Meaning: improve over time.
+
+Example: Daily speaking practice helps me make progress.
+
+### be beneficial to
+
+Meaning: have a positive effect on someone or something.
+
+Example: English can be beneficial to people at work and while travelling.
+
+### the most useful skill I have ever learned
+
+Use this complete pattern to describe an important skill.
+
+Example: English is the most useful skill I have ever learned.
+
+### save commuting time
+
+Meaning: spend less time travelling to and from work.
+
+Example: Working from home can save commuting time.

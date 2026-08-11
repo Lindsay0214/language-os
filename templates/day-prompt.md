@@ -2,6 +2,8 @@
 
 Use this template when the user says `Start Day N`. Include a time budget beside every section and keep the total mission manageable.
 
+State one primary production or grammar focus at the top of every mission. Review that focus in depth; record other recurring errors, but do not make them simultaneous correction targets.
+
 ## 1. Generate Today's Mission
 
 Create a manageable mission with one task in each required area:
