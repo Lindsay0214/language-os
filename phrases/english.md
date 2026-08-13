@@ -164,3 +164,29 @@ Example: English is the most useful skill I have ever learned.
 Meaning: spend less time travelling to and from work.
 
 Example: Working from home can save commuting time.
+
+## Day 6
+
+### in exchange for
+
+Meaning: given or done as payment for something else.
+
+Example: I worked part-time in exchange for accommodation.
+
+### align opinions with others
+
+Meaning: reach shared understanding or agreement with other people.
+
+Example: Without language skills, it is hard to align opinions with colleagues.
+
+### indulge myself in a new culture
+
+Meaning: fully immerse and enjoy experiencing a different culture.
+
+Example: I would like to indulge myself in the local culture after moving abroad.
+
+### technical ability alone cannot sustain a job
+
+Use this pattern to argue that a single skill is not enough without communication.
+
+Example: Technical ability alone cannot sustain a job if communication breaks down.

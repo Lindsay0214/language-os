@@ -112,3 +112,21 @@ Occurrences:
 Pattern
 
 Use an article with singular countable nouns. `Bruder` is masculine, so its accusative negative form is `keinen Bruder`.
+
+---
+
+## Day 6 Spelling
+
+### Missing umlaut on `möchte`
+
+Occurrences:
+
+- Day 6 (three occurrences)
+
+❌ Ich mochte in Deutschland arbeiten.
+
+✅ Ich möchte in Deutschland arbeiten.
+
+Pattern
+
+Word order and verb choice were correct every time; this is a spelling/typing gap, not a grammar error. `mochte` (no umlaut) is a different, unrelated word. Watch for the ö when typing `möchte`.

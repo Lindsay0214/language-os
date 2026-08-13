@@ -369,3 +369,84 @@ Examples
 Pattern
 
 Use `a lot of`, not `a lots of`; use `are unemployed` for a current state. Past hypothetical situations use `if + had + past participle` and `might have + past participle`.
+
+---
+
+## Day 6 Recurring Mistakes
+
+### `experience` as an uncountable noun
+
+Priority: 🔥🔥🔥🔥
+
+Occurrences:
+
+- Day 6 (two occurrences in the same exercise)
+
+Examples
+
+❌ She has an experience building the websites for three years.
+
+✅ She has experience building websites for three years.
+
+❌ I need the university degree, or I can use the work experience instead.
+
+✅ I need a university degree, or I can use work experience instead.
+
+Pattern
+
+`experience` meaning "accumulated knowledge from doing something" is uncountable and takes no article. `experience` meaning "a single event" is countable: `a strange experience`. Before adding an article to `experience`, ask which sense is meant.
+
+---
+
+### Missing preposition after `moving`
+
+Occurrences:
+
+- Day 6
+
+Examples
+
+❌ moving another country for work
+
+✅ moving to another country for work
+
+Pattern
+
+`move` as a verb of relocation needs `to` before the destination.
+
+---
+
+### Run-on sentences combining reason, example, and result
+
+Occurrences:
+
+- Day 2
+- Day 6
+
+Examples
+
+❌ Not really immigration in the beginning, but I would try to find any opportunities or a jobs or just staying there to know about the local culture.
+
+✅ At first, it's not really about immigration. I want to find opportunities. I want to experience the local culture.
+
+Pattern
+
+When a sentence contains `but`, `if`, or `that could` linking multiple ideas, check whether it can split into two or three shorter sentences, one idea each.
+
+---
+
+### Opposing view conceded too quickly in argument essays
+
+Occurrences:
+
+- Day 6
+
+Pattern
+
+A concession sentence like "Although some people think X..." should engage with why X seems reasonable before pivoting to the writer's position, rather than immediately dismissing it. The result sentence after an example must also explain why the outcome matters, not just state what happened.
+
+Example gap
+
+❌ ...even they have skills to tidy up rooms, in result, they left there.
+
+✅ Although they were skilled at the job itself, they could not understand their manager's instructions, and this misunderstanding eventually forced them to leave. This shows that technical ability alone cannot sustain a job if communication breaks down.

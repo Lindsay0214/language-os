@@ -3,6 +3,12 @@
 These rules are the default operating system. Change them deliberately during a review, not in the middle of a difficult study session.
 
 1. **Never skip two consecutive days.** A short recovery session counts.
+2. **Pick a daily tier, not an all-or-nothing session.** Real life is unpredictable; the system must bend before the streak breaks.
+   - 🔥 **Full** (~60–90 min): the complete six-block session.
+   - ⚡ **Light** (~20–30 min): one IELTS speaking prompt, focused grammar repair on the day's primary target, one German mini-output. Skip listening and full writing.
+   - 🌙 **Minimal** (~10 min): only the day's primary grammar/production focus — 2–3 English sentences applying it, 1–2 German sentences. Nothing else.
+   - If the user does not name a tier when starting a session, ask once, briefly, instead of assuming Full.
+   - Minimal still counts as a full streak day. The point of Minimal is that skipping never becomes the easier option than showing up.
 2. **Input → Recall → Output → Feedback.** Complete the loop whenever possible.
 3. **Speaking first, grammar second.** Use grammar to improve communication, not postpone it.
 4. **Mistakes are assets.** Capture recurring errors and turn them into future practice.

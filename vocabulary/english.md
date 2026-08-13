@@ -230,3 +230,33 @@ Students may lose the opportunity to learn practical skills.
 My example
 
 This course gives me an opportunity to practice speaking.
+
+## Day 6
+
+### declutter
+
+Meaning
+
+to remove unnecessary items and make a space tidy
+
+Example from context
+
+They discussed the origin of the word "declutter."
+
+My example
+
+I want to declutter my desk before starting German practice.
+
+### tackle something
+
+Meaning
+
+to deal with a difficult task or problem directly
+
+Example from context
+
+Heard in the BBC listening clip about cleaning up.
+
+My example
+
+I need to tackle my messy desk this weekend.

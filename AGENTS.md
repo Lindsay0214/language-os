@@ -22,7 +22,8 @@ The repository is the source of truth for the workflow. Load these instructions 
 
 When the user says `Start Day N`:
 
-1. Determine today's date and create a focused mission for all six required areas.
+0. If the user did not name a tier (Full, Light, or Minimal — see `rules.md`), ask once, briefly, which tier fits today before generating the mission. Scale the mission to that tier instead of defaulting to Full.
+1. Determine today's date and create a focused mission for all six required areas (Full tier) or the reduced set for Light/Minimal.
 2. Generate English listening, IELTS speaking, and English writing tasks.
 3. Generate German vocabulary, German speaking, and German writing tasks.
 4. For English output, use the sequence Speaking → Speaking Rewrite → Writing whenever the session is not a recovery session. Reuse the same idea and, when useful, a story from `ideas/stories.md`.
