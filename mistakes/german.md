@@ -130,3 +130,28 @@ Occurrences:
 Pattern
 
 Word order and verb choice were correct every time; this is a spelling/typing gap, not a grammar error. `mochte` (no umlaut) is a different, unrelated word. Watch for the ö when typing `möchte`.
+
+---
+
+## Day 7 Masculine Accusative Article (Recurring — 4th Occurrence)
+
+Occurrences:
+
+- Day 1
+- Day 2
+- Day 5
+- Day 7
+
+❌ Ich möchte eine Hund haben.
+
+✅ Ich möchte einen Hund haben.
+
+Also on Day 7: correct article but wrong verb form —
+
+❌ Ich möchte eine Schwester habe.
+
+✅ Ich möchte eine Schwester haben. (`haben` stays in the infinitive at the end of the sentence after `möchte`.)
+
+Pattern
+
+`Hund` is masculine, so its accusative form after `möchte`/`haben` is `einen Hund`. This exact pattern (masculine noun taking `eine` instead of `einen`) has now appeared four times. Practice cue: say the noun's gender out loud before choosing the article.

@@ -450,3 +450,53 @@ Example gap
 ❌ ...even they have skills to tidy up rooms, in result, they left there.
 
 ✅ Although they were skilled at the job itself, they could not understand their manager's instructions, and this misunderstanding eventually forced them to leave. This shows that technical ability alone cannot sustain a job if communication breaks down.
+
+---
+
+## Day 7 Recurring Mistakes
+
+### `apply for`
+
+Occurrences:
+
+- Day 7
+
+❌ I should apply German jobs.
+
+✅ I should apply for German jobs.
+
+Pattern
+
+`apply for` needs the preposition `for` before the thing you are applying for (a job, a visa, a scholarship).
+
+---
+
+### `disappointed` vs `disappoint`
+
+Occurrences:
+
+- Day 7
+
+❌ I'm really disappoint with myself.
+
+✅ I'm really disappointed with myself.
+
+Pattern
+
+`disappoint` is the verb (something disappoints you). To describe your own feeling, use the past participle as an adjective: `disappointed`.
+
+---
+
+### Splitting `which`-clauses into separate sentences
+
+Occurrences:
+
+- Day 7
+
+❌ ...my work almost finished by AI which make me feel uncertain about my career path.
+
+✅ Most of my work could be done by AI. This makes me feel uncertain about my career path.
+
+Pattern
+
+A `which`-clause tacked onto the end of a sentence often signals two ideas fighting for one sentence. Split it: keep the first idea, then start a new sentence with `This` to carry the consequence. Also watch subject-verb agreement after the split (`This makes`, not `which make`).

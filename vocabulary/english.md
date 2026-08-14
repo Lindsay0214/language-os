@@ -260,3 +260,33 @@ Heard in the BBC listening clip about cleaning up.
 My example
 
 I need to tackle my messy desk this weekend.
+
+## Day 7
+
+### renovate
+
+Meaning
+
+to repair and improve a building, making it look new again
+
+Example from context
+
+I started renovating my house.
+
+My example
+
+We're renovating the kitchen this month.
+
+### hallway
+
+Meaning
+
+a passage inside a house or building connecting rooms
+
+Example from context
+
+First, I painted the hallway wall.
+
+My example
+
+The hallway needs a fresh coat of paint.
