@@ -518,3 +518,21 @@ Occurrences:
 Pattern
 
 Use either `will + base verb` (`will come`) or the present progressive for a near-future event (`is coming`). Do not combine `will` with `-ing`.
+
+---
+
+## Day 9 Recurring Mistakes
+
+### `even` vs `even if`
+
+Occurrences:
+
+- Day 9
+
+❌ Therefore, even we have enough technical skills, without language skills, we couldn't totally achieve the task.
+
+✅ Therefore, even if we have enough technical skills, we still couldn't fully complete the task without language skills.
+
+Pattern
+
+`even` alone cannot introduce a clause. Use `even if` (hypothetical/concession) or `even though` (fact) before a subject + verb.

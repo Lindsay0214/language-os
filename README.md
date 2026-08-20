@@ -70,7 +70,7 @@ Keep the system small. Add a new file only when it improves retrieval, review, o
 
 Current Streak
 
-🔥 Day 8
+🔥 Day 9
 
 Completed Days
 
@@ -82,6 +82,7 @@ Completed Days
 - [x] Day 6
 - [x] Day 7 (Minimal)
 - [x] Day 8 (Recovery, Minimal — after a 4-day gap)
+- [x] Day 9 (Light)
 
 ### Expressiveness
 
