@@ -500,3 +500,21 @@ Occurrences:
 Pattern
 
 A `which`-clause tacked onto the end of a sentence often signals two ideas fighting for one sentence. Split it: keep the first idea, then start a new sentence with `This` to carry the consequence. Also watch subject-verb agreement after the split (`This makes`, not `which make`).
+
+---
+
+## Day 8 Recurring Mistakes
+
+### `will` + progressive confusion
+
+Occurrences:
+
+- Day 8
+
+❌ My period will coming soon.
+
+✅ My period is coming soon.
+
+Pattern
+
+Use either `will + base verb` (`will come`) or the present progressive for a near-future event (`is coming`). Do not combine `will` with `-ing`.

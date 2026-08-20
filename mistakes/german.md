@@ -155,3 +155,5 @@ Also on Day 7: correct article but wrong verb form —
 Pattern
 
 `Hund` is masculine, so its accusative form after `möchte`/`haben` is `einen Hund`. This exact pattern (masculine noun taking `eine` instead of `einen`) has now appeared four times. Practice cue: say the noun's gender out loud before choosing the article.
+
+Update — Day 8: first correct use — `Ich habe einen Bruder.` Rule understood; continue practicing to confirm it is stable, not a one-time correct answer.
