@@ -159,3 +159,16 @@ Pattern
 Update — Day 8: first correct use — `Ich habe einen Bruder.` Rule understood; continue practicing to confirm it is stable, not a one-time correct answer.
 
 Update — Day 9: second consecutive correct use — `Ich habe einen Hund.` **Status: resolved.** Moved out of active tracking; casual spot-checks only going forward.
+
+---
+
+## Day 10 Spelling: Missing Umlauts (General Pattern)
+
+Occurrences:
+
+- Day 6 (`mochte` → `möchte`)
+- Day 10 (`mude` → `müde`, `jetze` → `jetzt`)
+
+Pattern
+
+This is now a recurring typing habit, not isolated word errors: umlauts (ä, ö, ü) are being dropped when typing German. Grammar and word order have been consistently correct in the same sentences, so this is purely a spelling/typing gap. Practice cue: do a quick pass at the end of each German sentence checking specifically for missing umlauts before submitting.

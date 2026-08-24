@@ -536,3 +536,21 @@ Occurrences:
 Pattern
 
 `even` alone cannot introduce a clause. Use `even if` (hypothetical/concession) or `even though` (fact) before a subject + verb.
+
+---
+
+## Day 10 Recurring Mistakes
+
+### Tense agreement in past-event descriptions
+
+Occurrences:
+
+- Day 10
+
+❌ I took off today, because my period comes.
+
+✅ I took a day off today because my period started.
+
+Pattern
+
+When the main clause is past tense (`I took a day off`), the reason clause describing the same past event should also be past tense (`started`), not present tense (`comes`).
