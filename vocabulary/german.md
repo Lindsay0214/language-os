@@ -44,3 +44,29 @@ Ich möchte Tee.
 My example
 
 Ich möchte Wasser.
+
+## Day 11
+
+### besser
+
+Meaning
+
+better (comparative adjective)
+
+Example from context
+
+Ich bin heute besser.
+
+My example
+
+### froh
+
+Meaning
+
+glad, happy (simple A1 adjective)
+
+Example from context
+
+Ich bin froh.
+
+My example

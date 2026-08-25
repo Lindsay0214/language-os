@@ -554,3 +554,22 @@ Occurrences:
 Pattern
 
 When the main clause is past tense (`I took a day off`), the reason clause describing the same past event should also be past tense (`started`), not present tense (`comes`).
+
+---
+
+## Day 11 Recurring Mistakes
+
+### `felt` + noun vs. adjective
+
+Occurrences:
+
+- Day 11
+
+❌ I felt more energy today because I set a new goal for this year.
+
+✅ I had more energy today because I set a new goal for this year.
+✅ I felt more energetic today because I set a new goal for this year.
+
+Pattern
+
+`felt` needs an adjective complement (`felt energetic`, `felt tired`), not a noun (`energy`). If the noun form is more natural, switch the verb to `had` instead (`had more energy`).

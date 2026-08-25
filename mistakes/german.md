@@ -172,3 +172,24 @@ Occurrences:
 Pattern
 
 This is now a recurring typing habit, not isolated word errors: umlauts (ä, ö, ü) are being dropped when typing German. Grammar and word order have been consistently correct in the same sentences, so this is purely a spelling/typing gap. Practice cue: do a quick pass at the end of each German sentence checking specifically for missing umlauts before submitting.
+
+Update — Day 11: `jetzt` misspelled a third distinct way (`jezte`). This word specifically may need dedicated repetition rather than general umlaut awareness.
+
+---
+
+## Day 11: Direct English-to-German Structure Translation
+
+Occurrences:
+
+- Day 11
+
+❌ Ich felt mehr gut jezte. (attempting to translate "I felt more good now")
+
+Pattern
+
+Translating an English sentence structure word-by-word (verb `felt` + comparative `more good` + adverb `now`) does not produce valid German — English and German feeling/comparative structures differ. At this stage, prefer building from already-practiced `sein`/`haben` patterns:
+
+✅ Ich bin heute besser. (using `sein` + comparative adjective)
+✅ Ich bin froh. (using `sein` + simple adjective)
+
+Practice cue: before writing a German sentence, ask whether it can be built from a known `sein`/`haben` pattern instead of translating an English sentence directly.
