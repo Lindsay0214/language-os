@@ -193,3 +193,36 @@ Translating an English sentence structure word-by-word (verb `felt` + comparativ
 ✅ Ich bin froh. (using `sein` + simple adjective)
 
 Practice cue: before writing a German sentence, ask whether it can be built from a known `sein`/`haben` pattern instead of translating an English sentence directly.
+
+---
+
+## Day 12: `haben` Not Conjugated for `ich`
+
+Occurrences:
+
+- Day 12 (two occurrences)
+
+❌ Ich haben die Wasser.
+
+✅ Ich habe Wasser. (also: `Wasser` is uncountable, no article needed)
+
+❌ Ich haben der Hund.
+
+✅ Ich habe einen Hund.
+
+Pattern
+
+`haben` is the infinitive form. The subject `ich` requires the conjugated form `habe`, not `haben`. Practice cue: before writing `haben` after `ich`, conjugate it to `habe` first.
+
+---
+
+## Day 12: Masculine Accusative Article Reappeared (Reopen for Light Monitoring)
+
+Occurrences:
+
+- Day 1, 2, 5, 7 (original pattern, resolved after Day 9)
+- Day 12 (`der Hund` instead of `einen Hund`)
+
+Pattern
+
+This was marked resolved after two consecutive correct uses (Day 8, Day 9). It reappeared once on Day 12, though in a sentence that also had a `haben` conjugation error, so the article slip may be linked to overall sentence-construction load rather than a full regression. Status: reopened for light spot-checks, not full active tracking.

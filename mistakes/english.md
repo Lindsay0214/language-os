@@ -573,3 +573,5 @@ Occurrences:
 Pattern
 
 `felt` needs an adjective complement (`felt energetic`, `felt tired`), not a noun (`energy`). If the noun form is more natural, switch the verb to `had` instead (`had more energy`).
+
+Update — Day 12: 2/3 correct on a follow-up drill (`felt happier`, `felt tired` both correct). Remaining error: `felt a excitement` → `felt excited` — same rule, this time choosing a noun (`excitement`) instead of the adjective (`excited`). The rule itself appears understood; only the specific word form is still inconsistent. Consider resolved after one more clean pass.
