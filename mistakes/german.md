@@ -222,7 +222,8 @@ Occurrences:
 
 - Day 1, 2, 5, 7 (original pattern, resolved after Day 9)
 - Day 12 (`der Hund` instead of `einen Hund`)
+- Day 13 (`eine Hund` instead of `einen Hund`)
 
 Pattern
 
-This was marked resolved after two consecutive correct uses (Day 8, Day 9). It reappeared once on Day 12, though in a sentence that also had a `haben` conjugation error, so the article slip may be linked to overall sentence-construction load rather than a full regression. Status: reopened for light spot-checks, not full active tracking.
+This was marked resolved after two consecutive correct uses (Day 8, Day 9). It has now reappeared on two consecutive occasions (Day 12, Day 13). **Status: reopened for active tracking** — no longer just light monitoring. Practice cue: before writing `ein`/`eine` with `haben`, say the noun's gender out loud, then apply masculine → `einen`.
