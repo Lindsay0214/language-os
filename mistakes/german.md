@@ -227,3 +227,5 @@ Occurrences:
 Pattern
 
 This was marked resolved after two consecutive correct uses (Day 8, Day 9). It has now reappeared on two consecutive occasions (Day 12, Day 13). **Status: reopened for active tracking** — no longer just light monitoring. Practice cue: before writing `ein`/`eine` with `haben`, say the noun's gender out loud, then apply masculine → `einen`.
+
+Update — Day 14: clean two-for-two (`einen Hund`, `einen Bruder`), first fully correct session since reopening. Status: monitoring for stability — one more clean session would support re-closing this as resolved.

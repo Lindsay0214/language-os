@@ -503,6 +503,41 @@ A `which`-clause tacked onto the end of a sentence often signals two ideas fight
 
 ---
 
+## Day 14 Recurring Mistakes
+
+### `apply for` (recurring — 2nd occurrence)
+
+Occurrences:
+
+- Day 11
+- Day 14
+
+❌ I applied a German job today.
+
+✅ I applied for a German job today.
+
+Pattern
+
+`apply for` always needs the preposition `for` before the thing being applied for (a job, a visa, a scholarship). This has now recurred; worth deliberate attention next time the phrase comes up.
+
+---
+
+### `thought` vs `though`
+
+Occurrences:
+
+- Day 14
+
+❌ I applied a German job today thought it was really slow pace.
+
+✅ I applied for a German job today, though it felt like a really slow pace.
+
+Pattern
+
+`thought` is the past tense of `think`. `though` means "although." They are frequently confused because they look similar; check which meaning is intended before choosing.
+
+---
+
 ## Day 8 Recurring Mistakes
 
 ### `will` + progressive confusion
