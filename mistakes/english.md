@@ -536,6 +536,54 @@ Pattern
 
 `thought` is the past tense of `think`. `though` means "although." They are frequently confused because they look similar; check which meaning is intended before choosing.
 
+Update — Day 15: `apply for` used correctly twice in a row (Day 15). Considered stable — no longer an active watch-point.
+
+---
+
+## Day 15 Recurring Mistakes
+
+### `frustration` vs `frustrating` (same family as `felt` + adjective)
+
+Occurrences:
+
+- Day 15
+
+❌ It is really frustration.
+
+✅ It was really frustrating.
+
+Pattern
+
+`frustration` is a noun; `frustrating` is the adjective describing what causes the feeling. This is the same underlying pattern as the `felt` + noun/adjective confusion (see Day 7, Day 11, Day 12 entries) — check whether a noun or adjective is grammatically needed before choosing the word form.
+
+---
+
+### `affluent` vs `fluent`
+
+Occurrences:
+
+- Day 15
+
+❌ I would become affluent German speaker in the future.
+
+✅ I would become a fluent German speaker in the future.
+
+Pattern
+
+`affluent` means wealthy. `fluent` means speaking a language smoothly and easily. These look similar but are unrelated in meaning — double-check before using `affluent` in a language-learning context.
+
+---
+
+### Sentence-boundary collapse during unscripted speaking
+
+Occurrences:
+
+- Day 15
+
+Pattern
+
+A full IELTS Part 2 response ran as one unbroken sentence with no clear boundaries, despite "one idea per sentence" being solid in writing tasks since Day 7. This is expected under the time pressure of spontaneous speech, not a regression. Practice cue: pause for breath at the end of each idea during speaking practice — this creates a natural sentence boundary.
+
 ---
 
 ## Day 8 Recurring Mistakes
