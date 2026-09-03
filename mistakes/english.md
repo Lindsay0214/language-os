@@ -584,6 +584,25 @@ Pattern
 
 A full IELTS Part 2 response ran as one unbroken sentence with no clear boundaries, despite "one idea per sentence" being solid in writing tasks since Day 7. This is expected under the time pressure of spontaneous speech, not a regression. Practice cue: pause for breath at the end of each idea during speaking practice — this creates a natural sentence boundary.
 
+Update — Day 16: deliberately short, broken sentences in a written exercise came out clean. Confirms the skill is solid in writing; the gap is specific to real-time unscripted speaking.
+
+---
+
+## General Pattern: Feeling-Word Noun/Adjective/Participle Confusion
+
+Occurrences:
+
+- Day 7 (`felt more energy` → `had more energy`)
+- Day 12 (`felt a excitement` → `felt excited`)
+- Day 15 (`it is really frustration` → `it was really frustrating`)
+- Day 16 (`really satisfied for me` → `really satisfying for me`)
+
+Pattern
+
+This is now a recurring family of errors, not isolated mistakes: feeling-related words have distinct noun, adjective (describing the person), and participle (describing the cause) forms, and the wrong one keeps getting selected. Examples: `excitement` (noun) / `excited` (person feels it) / `exciting` (thing causes it); `frustration` (noun) / `frustrated` (person) / `frustrating` (cause); `satisfaction` (noun) / `satisfied` (person) / `satisfying` (cause).
+
+General practice cue: before choosing the word form, ask "am I describing the person's feeling, or the thing that causes the feeling?" — person → `-ed` adjective; cause → `-ing` adjective; the underlying idea as a thing → noun form.
+
 ---
 
 ## Day 8 Recurring Mistakes

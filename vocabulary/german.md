@@ -70,3 +70,17 @@ Example from context
 Ich bin froh.
 
 My example
+
+## Day 16
+
+### schwimmen
+
+Meaning
+
+to swim
+
+Example from context
+
+Ich kann schwimmen.
+
+My example
