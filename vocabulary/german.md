@@ -98,3 +98,77 @@ Example from context
 Ich kann tanzen.
 
 My example
+
+## Day 18
+
+### sprechen
+
+Meaning
+
+to speak
+
+Example from context
+
+Ich kann Englisch sprechen.
+
+My example
+
+### Englisch
+
+Meaning
+
+English (the language — always capitalized)
+
+Example from context
+
+Ich kann Englisch sprechen.
+
+My example
+
+### wandern
+
+Meaning
+
+to hike
+
+Example from context
+
+Ich kann wandern und malen.
+
+My example
+
+### malen
+
+Meaning
+
+to paint
+
+Example from context
+
+Ich kann wandern und malen.
+
+My example
+
+### kochen
+
+Meaning
+
+to cook
+
+Example from context
+
+Ich kann kochen.
+
+My example
+
+### singen
+
+Meaning
+
+to sing
+
+Example from context
+
+Ich kann singen und tanzen.
+
+My example

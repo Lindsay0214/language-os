@@ -605,6 +605,16 @@ General practice cue: before choosing the word form, ask "am I describing the pe
 
 Update — Day 17: the general rule has genuinely generalized — `bore` → `boring` and `confuse` → `confused` were both handled correctly on new words never drilled before. One boundary case surfaced (see below): `full of` expects a noun, and this is a *separate* rule that should not be folded into the feeling-word pattern.
 
+Update — Day 18: `felt really boring` → `felt really bored` — 5th occurrence in this family. The meeting bored her, so *she* is `bored` (person → `-ed`). Note the interaction with the `full of` rule: `boring` here is wrong because it describes the wrong subject, not because the slot needs a noun.
+
+Occurrences (updated):
+
+- Day 7 (`felt more energy` → `had more energy`)
+- Day 12 (`felt a excitement` → `felt excited`)
+- Day 15 (`it is really frustration` → `it was really frustrating`)
+- Day 16 (`really satisfied for me` → `really satisfying for me`)
+- Day 18 (`felt really boring` → `felt really bored`)
+
 ---
 
 ## Day 17: `full of` + noun (not the adjective/participle form)
@@ -620,6 +630,24 @@ Occurrences:
 Pattern
 
 `full of X` takes a **noun** as X (`full of interest`, `full of energy`, `full of hope`) — not an adjective (`interesting`) or a participle (`interested`). This is a boundary case next to the feeling-word rule above: the fix here is not "pick `-ed` vs `-ing`", it is "this slot needs a noun at all." The same applies to other noun-expecting phrases: `type of`, `kind of`, `sort of`, `a lot of`, `plenty of`. Practice cue: when using `full of` / `type of` / `kind of` and similar, check the next word is a noun before inserting it.
+
+Update — Day 18: **2nd occurrence.** `full of interested` again — the identical error from Day 17. However, `type of` / `kind of` / `a lot of` were all handled correctly in the same exercise (3/4). The gap is narrowing to `full of` specifically. Sharpened cue: for that slot, do not even consider an `-ed` / `-ing` form — go straight to a noun.
+
+---
+
+## Day 18: Tense shift on a still-true habit
+
+Occurrences:
+
+- Day 18
+
+❌ This was the type of mistake that I always make.
+
+✅ This is the type of mistake that I always make.
+
+Pattern
+
+When correcting or editing a sentence, do not change a present-tense habit to past unless the habit has actually stopped. `always make` (present) needs a present main verb (`is`), because the mistake is still one that gets made. Only use `was` / `used to` if the habit is over. Practice cue: if the sentence has `always` / `usually` / `every day` and describes something still true, keep the whole sentence in the present.
 
 ---
 

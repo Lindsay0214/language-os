@@ -231,3 +231,18 @@ This was marked resolved after two consecutive correct uses (Day 8, Day 9). It h
 Update — Day 14: clean two-for-two (`einen Hund`, `einen Bruder`), first fully correct session since reopening. Status: monitoring for stability — one more clean session would support re-closing this as resolved.
 
 Update — Day 15: clean three-for-three (`einen Hund`, `einen Kaffee`, `einen Tee`), second consecutive clean session. **Status: re-resolved.** Moved back out of active tracking.
+
+---
+
+## Day 16: Inventing German Verbs from English Sounds
+
+Occurrences:
+
+- Day 16 (`swimmist` — English "swim" + a German-sounding ending, for `schwimmen`)
+- Day 18 (`speren` for "speak" → `sprechen`; using `hike` / `paint` directly instead of `wandern` / `malen`)
+
+Pattern
+
+When a German verb is not known, an English verb is being given a German-looking ending or used as-is. German verbs are not derivable from English — they are separate words that must be learned. The sentence *structure* has been correct each time (`Ich kann` + object + infinitive at the end, `und` joining two infinitives), so this is purely a vocabulary gap, not grammar.
+
+Practice cue: if you do not actually know the German verb, treat that as an unknown to look up or ask for — do not manufacture one. Better to write a shorter sentence with a verb you know (`schwimmen`, `tanzen`, `kochen`, `singen`) than to invent one.
