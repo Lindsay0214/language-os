@@ -70,7 +70,7 @@ Keep the system small. Add a new file only when it improves retrieval, review, o
 
 Current Streak
 
-🔥 Day 16
+🔥 Day 17
 
 Completed Days
 
@@ -90,6 +90,7 @@ Completed Days
 - [x] Day 14 (Minimal)
 - [x] Day 15 (Light)
 - [x] Day 16 (Minimal)
+- [x] Day 17 (Minimal)
 
 ### Expressiveness
 

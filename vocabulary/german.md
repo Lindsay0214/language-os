@@ -84,3 +84,17 @@ Example from context
 Ich kann schwimmen.
 
 My example
+
+## Day 17
+
+### tanzen
+
+Meaning
+
+to dance
+
+Example from context
+
+Ich kann tanzen.
+
+My example

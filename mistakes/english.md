@@ -603,6 +603,24 @@ This is now a recurring family of errors, not isolated mistakes: feeling-related
 
 General practice cue: before choosing the word form, ask "am I describing the person's feeling, or the thing that causes the feeling?" — person → `-ed` adjective; cause → `-ing` adjective; the underlying idea as a thing → noun form.
 
+Update — Day 17: the general rule has genuinely generalized — `bore` → `boring` and `confuse` → `confused` were both handled correctly on new words never drilled before. One boundary case surfaced (see below): `full of` expects a noun, and this is a *separate* rule that should not be folded into the feeling-word pattern.
+
+---
+
+## Day 17: `full of` + noun (not the adjective/participle form)
+
+Occurrences:
+
+- Day 17
+
+❌ Her story was full of interested.
+
+✅ Her story was full of interest.
+
+Pattern
+
+`full of X` takes a **noun** as X (`full of interest`, `full of energy`, `full of hope`) — not an adjective (`interesting`) or a participle (`interested`). This is a boundary case next to the feeling-word rule above: the fix here is not "pick `-ed` vs `-ing`", it is "this slot needs a noun at all." The same applies to other noun-expecting phrases: `type of`, `kind of`, `sort of`, `a lot of`, `plenty of`. Practice cue: when using `full of` / `type of` / `kind of` and similar, check the next word is a noun before inserting it.
+
 ---
 
 ## Day 8 Recurring Mistakes
