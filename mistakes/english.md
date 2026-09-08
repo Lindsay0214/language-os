@@ -633,6 +633,51 @@ Pattern
 
 Update — Day 18: **2nd occurrence.** `full of interested` again — the identical error from Day 17. However, `type of` / `kind of` / `a lot of` were all handled correctly in the same exercise (3/4). The gap is narrowing to `full of` specifically. Sharpened cue: for that slot, do not even consider an `-ed` / `-ing` form — go straight to a noun.
 
+Update — Day 19: **3rd occurrence, and worse — 4/5 wrong on a drill built specifically for this.** Given bracket roots and asked for the noun form after `full of`:
+
+❌ full of energation (invented word) → ✅ full of energy
+❌ full of kind (adjective) → ✅ full of kindness
+❌ full of silent (adjective) → ✅ full of silence
+❌ full of confident (adjective) → ✅ full of confidence
+
+Only `full of noise` was correct, and that root was already a noun requiring no change. The bracket hints `(energy) (silence) (confidence)` were themselves the answer — they just needed to be copied in — and an adjective or invented word came out anyway. This confirms the problem is not "which noun form"; `full of` triggers an adjective reflex before a noun is considered.
+
+**Current cue (Day 19):** after writing `full of`, test the next word by putting `the` in front of it. `the noise` / `the energy` / `the kindness` / `the silence` / `the confidence` — all valid. `the silent` / `the confident` — not English. If `the ___` fails, the word is not a noun. This rule is NOT stable — expect to keep drilling it.
+
+---
+
+## Day 19: `unfreash` — "fresh" has no `un-` negative
+
+Occurrences:
+
+- Day 19
+
+❌ ...which made the air unfreash
+
+✅ ...so the air felt stale (also: `stuffy`, `not fresh`)
+
+Pattern
+
+`fresh` does not take an `un-` prefix, and `unfreash` is also misspelled. For air that is not fresh, use `stale` or `stuffy`. Practice cue: if unsure whether a word takes `un-`, use a known opposite instead of inventing one.
+
+---
+
+## Day 19: `which`-clause chaining (recurring — 3rd occurrence)
+
+Occurrences:
+
+- Day 7
+- Day 18
+- Day 19
+
+❌ My air conditioner was full of dust which made the air unfreash, so I clean up yesterday.
+
+✅ My air conditioner was full of dust, so the air felt stale. I cleaned it out yesterday.
+
+Pattern
+
+Still tacking a consequence onto the main clause with `which` (dirty AC → stale air → I cleaned it, all in one sentence). Also `I clean up yesterday` → `I cleaned it out yesterday`: `yesterday` forces past tense, and `clean` needs an object (`it` / `it out`). Practice cue: when a sentence has `which` followed by a result, cut it there and start a new sentence.
+
 ---
 
 ## Day 18: Tense shift on a still-true habit

@@ -70,7 +70,7 @@ Keep the system small. Add a new file only when it improves retrieval, review, o
 
 Current Streak
 
-🔥 Day 18 (Recovery — restarted after skipping 2026-09-05 and 2026-09-06)
+🔥 Day 19
 
 Completed Days
 
@@ -92,6 +92,7 @@ Completed Days
 - [x] Day 16 (Minimal)
 - [x] Day 17 (Minimal)
 - [x] Day 18 (Recovery, Minimal — after a 2-day gap)
+- [x] Day 19 (Minimal)
 
 ### Expressiveness
 

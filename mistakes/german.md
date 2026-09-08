@@ -246,3 +246,5 @@ Pattern
 When a German verb is not known, an English verb is being given a German-looking ending or used as-is. German verbs are not derivable from English — they are separate words that must be learned. The sentence *structure* has been correct each time (`Ich kann` + object + infinitive at the end, `und` joining two infinitives), so this is purely a vocabulary gap, not grammar.
 
 Practice cue: if you do not actually know the German verb, treat that as an unknown to look up or ask for — do not manufacture one. Better to write a shorter sentence with a verb you know (`schwimmen`, `tanzen`, `kochen`, `singen`) than to invent one.
+
+Update — Day 19: clean. With the verb list supplied, both outputs stayed inside it (`Ich kann wandern.`, `Ich kann nicht malen.`) — no invented verbs. Structure was correct in both, including the negative (`nicht` before the infinitive at the end). This was the first fully clean German output since Day 15. The invented-verb risk appears to be tied to reaching for vocabulary that isn't there; when the words are available, structure is reliable.
